@@ -1,0 +1,11 @@
+# Pytest
+.cache/
+.pytest_cache/
+
+# Allure reporting
+allure-results/*
+
+# Pycharm
+.idea/*
+
+*.pyc

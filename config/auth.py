@@ -1,0 +1,5 @@
+from . import env
+
+
+TOKEN = env.get(key='TOKEN')
+EXPIRED_TOKEN = '1cd952b7f18e31f9297939d809b630d1bb280f2eb55837910a4a1701986292ce'

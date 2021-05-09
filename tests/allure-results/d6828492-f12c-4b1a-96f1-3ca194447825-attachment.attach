@@ -1,0 +1,3 @@
+get response:
+ code: 200 OK
+ content: {"code":422,"meta":null,"data":[{"field":"email","message":"has already been taken"}]}

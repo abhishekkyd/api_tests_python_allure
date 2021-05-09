@@ -1,0 +1,5 @@
+send request:
+ url: https://gorest.co.in/public-api/users?name=Abhishek+Yadav&gender=Male&email=yabhishek2%40outlook.com&status=Active
+ method: POST
+ headers: {'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Authorization': 'Bearer 1cd952b7f18e31f9297939d809b630d1bb280f2eb55837910a4a1701986292ce', 'Content-Length': '0'}
+ body: None

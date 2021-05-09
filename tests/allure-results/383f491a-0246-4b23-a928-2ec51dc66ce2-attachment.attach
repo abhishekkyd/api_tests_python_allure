@@ -1,0 +1,5 @@
+send request:
+ url: https://gorest.co.in/public-api/users/2001
+ method: GET
+ headers: {'User-Agent': 'python-requests/2.25.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+ body: None
